@@ -1,5 +1,5 @@
 void main() {
-  string nama;
+  String nama;
   nama = "Rini febriani";
 
   print(nama);
